@@ -1,4 +1,4 @@
-# explorer-style-winapp
+# explorer-style-app
 Explorer-style windows form application written in c# that has:
   1. A container splitted into two
   2. Tree-view 
