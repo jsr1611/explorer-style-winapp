@@ -1,0 +1,10 @@
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\obj\Debug\WinExplorer.csprojAssemblyReference.cache
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\obj\Debug\WinExplorer.Properties.Resources.resources
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\obj\Debug\WinExplorer.csproj.GenerateResource.cache
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\obj\Debug\WinExplorer.csproj.CoreCompileInputs.cache
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\bin\Debug\WinExplorer.exe.config
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\bin\Debug\WinExplorer.exe
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\bin\Debug\WinExplorer.pdb
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\obj\Debug\WinExplorer.exe
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\obj\Debug\WinExplorer.pdb
+C:\Users\JIMMY\source\repos\WinExplorer\WinExplorer\obj\Debug\WinExplorer.ExplorerForm.resources
